@@ -23,6 +23,6 @@ Interested in Business Management, Marketing, Finance and Data Analysis.
 - English: B2
 - Italian: B1
 
-📩 Contact: andrea.millanuribe@gmail.com
+Contact: andrea.millanuribe@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/andrea-millan-uribe)
