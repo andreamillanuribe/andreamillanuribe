@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Andrea Millán Uribe 
 
-<!--
-**andreamillanuribe/andreamillanuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fourth-year Business Administration and Marketing student at CEU San Pablo University.
 
-Here are some ideas to get you started:
+International academic experience at the University of Modena and Reggio Emilia (Italy).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in Business Management, Marketing, Finance and Data Analysis.
+
+### Technical Skills
+- Microsoft Office 365
+- SPSS
+- OxMetrics
+- Market Research
+- Digital Marketing
+
+### Academic Projects
+- Honda Sales Analysis – ARIMA Model (OxMetrics)
+- Hotel Data Analysis (SPSS)
+- Jewellery Brand Business Plan
+
+### Languages
+- Spanish: Native
+- English: B2
+- Italian: B1
+
+📩 Contact: andrea.millanuribe@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/andrea-millan-uribe)
